@@ -11320,9 +11320,9 @@ p {
 }
 .section-heading .section-heading-lower {
   display: inline-block;
-  width: 400px;
+  width: 100px;
   height: 20px;
-  font-size: 1.3rem;
+  font-size: 2rem;
   font-weight: 100;
 }
 
