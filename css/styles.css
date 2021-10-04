@@ -11321,7 +11321,7 @@ p {
 .section-heading .section-heading-lower {
   display: inline-block;
   width: 200px;
-  height: 100px;
+  height: 10px;
   padding: 5px;
   font-size: 2rem;
   font-weight: 100;
