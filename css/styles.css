@@ -11319,10 +11319,7 @@ p {
   font-weight: 800;
 }
 .section-heading .section-heading-lower {
-  display: inline-block;
-  width: 200px;
-  height: 10px;
-  padding: 5px;
+  display: block;
   font-size: 2rem;
   font-weight: 100;
   border: 1px solid blue;
