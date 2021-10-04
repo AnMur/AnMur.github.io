@@ -11319,7 +11319,7 @@ p {
   font-weight: 800;
 }
 .section-heading .section-heading-lower {
-  display: block;
+  display: inline-block;
   font-size: 2rem;
   font-weight: 100;
 }
