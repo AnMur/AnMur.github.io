@@ -11320,8 +11320,8 @@ p {
 }
 .section-heading .section-heading-lower {
   display: inline-block;
-  width: 50px;
-  height: 40px;
+  width: 400px;
+  height: 20px;
   font-size: 1.3rem;
   font-weight: 100;
 }
