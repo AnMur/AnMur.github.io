@@ -11480,13 +11480,13 @@ p {
     height: 400px;
 }
 
-#hamburger-icon {
+hamburger-icon {
   margin: auto 0;
   display: none;
   cursor: pointer;
 }
 
-#hamburger-icon div {
+hamburger-icon div {
   width: 35px;
   height: 3px;
   background-color: white;
@@ -11538,7 +11538,7 @@ p {
     display: none;
   }
 
-  #hamburger-icon {
+  hamburger-icon {
     display: block;
   }
 }
